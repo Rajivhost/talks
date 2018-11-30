@@ -26,7 +26,9 @@ Société de service, spécialisée dans le developpement <br/>de logiciel depui
 ***************************************************************************************************
 - id : moderm-app
 
-### Architecture d'application moderne
+### Architecture des applications modernes
+
+<img src="images/architecture.png" />
 
 ***************************************************************************************************
 - id : developers-profils
