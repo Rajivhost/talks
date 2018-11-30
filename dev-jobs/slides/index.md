@@ -7,7 +7,7 @@
 ***************************************************************************************************
 - id : title
   
-<img src="images/front-end-vs-back-end.png" style="width:400px" />
+<img src="images/front-end-vs-back-end1.png" style="width:400px" />
 
 ## Les métiers du développement d'application
 
@@ -27,3 +27,29 @@ Société de service, spécialisée dans le developpement <br/>de logiciel depui
 - id : moderm-app
 
 ### Architecture d'application moderne
+
+***************************************************************************************************
+- id : developers-profils
+
+### Les differents métiers
+
+---------------------------------------------------------------------------------------------------
+- id : back-end-devs
+
+### Les développeurs Back-end
+
+---------------------------------------------------------------------------------------------------
+- id : front-end-devs
+
+### Les developpeurs Front-end
+
+Ce profil de developpeur est demandé pour concevoir les differents clients utilisateurs, a savoir:
+
+- Les clients Web (javascript, typescript, ReasonML, CSS, HTML ...);
+- Les clients Desktop (C#, Java, Javascript, ReasonML, ...);
+- Les clients Mobile (C#, Java, Javascript, ReasonML ...);
+
+---------------------------------------------------------------------------------------------------
+- id : full-stack-devs
+
+### Les developpeurs Full-stack
